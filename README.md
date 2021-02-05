@@ -1,3 +1,5 @@
+<p align="center"><img src="https://profile-counter.glitch.me/{Bappy0X}/count.svg" alt="Bappy0X • View Count"/></p>
+
 # Hey, You found me! :wave:
 
 <p align="center">
@@ -17,7 +19,7 @@
 	</a>
 </p>
 
-## What I'm all about
+<!--## What I'm all about
 
 > Problem Solving
 
@@ -27,4 +29,4 @@
 
 <p align="center"><img src="https://profile-counter.glitch.me/{Bappy0X}/count.svg" alt="Bappy0X • View Count"/></p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bappy0X&langs_count=4&layout=compact" alt="Bappy0X • Top Languages"/></p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=bappy0x" alt="Bappy0X • GitHub Stats"/></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=bappy0x" alt="Bappy0X • GitHub Stats"/></p>-->
