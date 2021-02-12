@@ -1,6 +1,11 @@
 <p align="center"><img src="https://profile-counter.glitch.me/{Bappy0X}/count.svg" alt="Bappy0X • View Count"/></p>
 
-# Hey, You found me! :wave:
+<h1 align="center">Hey, You found me! :wave:</h1>
+<h3 align="center">My name's Josh! I'm a programming aficionado from Cheshire.</h3>
+
+<p align="center"><a href="https://bappy0x.tk">Check Out My Site!</a></p>
+
+<h4 align="center">Get in Contact:</h4>
 
 <p align="center">
 	<a href="https://github.com/Bappy0X"><img src="https://cdn4.iconfinder.com/data/icons/social-media-2069/130/_Social_Media_One-128.png" height="50px" alt="Twitter"/></a>
@@ -15,18 +20,6 @@
 
 <p align="center">
 	<a href="https://discord.gg/Cvc6pVK" title="Join our Discord!" target="_blank">
-		<img draggable="false" src="https://discordapp.com/api/guilds/708323454881103882/widget.png?style=banner2" height="76px" draggable="false" alt="Join my Discord!">
+		<img draggable="false" src="https://discordapp.com/api/guilds/708323454881103882/widget.png?style=banner2" height="76px" draggable="false" alt="Join my Discord!"/>
 	</a>
 </p>
-
-<!--## What I'm all about
-
-> Problem Solving
-
-> Web Apps
-
-> Electronics
-
-<p align="center"><img src="https://profile-counter.glitch.me/{Bappy0X}/count.svg" alt="Bappy0X • View Count"/></p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bappy0X&langs_count=4&layout=compact" alt="Bappy0X • Top Languages"/></p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=bappy0x" alt="Bappy0X • GitHub Stats"/></p>-->
