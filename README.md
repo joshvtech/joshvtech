@@ -3,9 +3,15 @@
 <h1 align="center">Hey, You found me! :wave:</h1>
 <h3 align="center">My name's Josh! I'm a programming aficionado from Cheshire.</h3>
 
-<p align="center"><a href="https://bappy0x.tk">Check Out My Site!</a></p>
+<!--
+<p align="center">Check Out My Site!</a></p>-->
 
-<h4 align="center">Get in Contact:</h4>
+<p align="center">
+	<a href="https://bappy0x.tk"><img src="https://cdn1.iconfinder.com/data/icons/linecon/512/globe-128.png" height="35px"/></a>
+	<a href="mailto:hi@bappy0x.me"><img src="https://cdn4.iconfinder.com/data/icons/linecon/512/send-128.png" height="35px"/></a>
+</p>
+
+<h4 align="center">Social Accounts:</h4>
 
 <p align="center">
 	<a href="https://github.com/Bappy0X"><img src="https://cdn4.iconfinder.com/data/icons/social-media-2069/130/_Social_Media_One-128.png" height="50px" alt="Twitter"/></a>
