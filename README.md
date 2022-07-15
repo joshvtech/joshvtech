@@ -17,7 +17,7 @@
 <p align="center">
 	<a href="https://www.youtube.com/channel/UCgL7ZU52tlnWeV7JdJY3pzg" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/157/social-media_youtube-128.png" height="50px" alt="YouTube"/></a>
 	<a href="https://www.instagram.com/joshvtech/" target="_blank"><img src="https://cdn4.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/155/social-media_instagram-black-128.png" height="50px" alt="Instagram"/></a>
-	<a href="https://github.com/Bappy0X" target="_blank"><img src="https://cdn3.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/159/social-media_GitHub-128.png" height="50px" alt="GitHub"/></a>
+	<a href="https://github.com/joshvtech" target="_blank"><img src="https://cdn3.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/159/social-media_GitHub-128.png" height="50px" alt="GitHub"/></a>
 	<a href="https://dribbble.com/joshvtech" target="_blank"><img src="https://cdn4.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/159/social-media_dribblbe-128.png" height="50px" alt="Dribbble"/></a>
 	
 </p>
